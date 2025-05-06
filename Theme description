@@ -1,7 +1,17 @@
-In a future not too distant, humanity's commitment to preserving our planet has reached unprecedented levels. The fight against climate change and environmental degradation has led to remarkable feats of innovation and collaboration, with sustainability hubs serving as the key outposts for these endeavors. Regular check-ups, system upgrades, and troubleshooting have become paramount to maintaining the delicate balance between human prosperity and ecological health. 🌍
+In a future not too distant, humanity's commitment to preserving our planet has reached unprecedented levels.
+The fight against climate change and environmental degradation has led to remarkable feats of innovation and collaboration, with sustainability hubs
+serving as the key outposts for these endeavors. Regular check-ups, system upgrades, and troubleshooting have become paramount to maintaining the delicate 
+balance between human prosperity and ecological health. 🌍
 
-Recognizing the need for efficient and reliable solutions, this theme revolves around a scenario where an EcoMender Bot is dispatched by the EcoCenter of an industry for analyzing the system's sustainability. Promoted by wireless alerts from the EcoCenter, the EcoMender Bot navigates through the industries, swiftly locating faulty or inefficient systems. It then communicates the issue to the EcoCenter before heading to the resource depot to perform the necessary repairs or upgrades.
+Recognizing the need for efficient and reliable solutions, this theme revolves around a scenario where an EcoMender Bot is dispatched by the EcoCenter
+of an industry for analyzing the system's sustainability. Promoted by wireless alerts from the EcoCenter, the EcoMender Bot navigates through the industries,
+swiftly locating faulty or inefficient systems. It then communicates the issue to the EcoCenter before heading to the resource depot to perform the necessary 
+repairs or upgrades.
 
-The core challenge of this theme lies in constructing the EcoMender Bot from scratch, utilizing an FPGA (Field Programmable Gate Array) as its powerhouse. Through the FPGAs adept control over sensors and actuators, the robot adeptly traverses the arena, perceives its environment, and picks up essential components from the resource depot. Wireless communication serves as the primary means for exchanging vital information with the central hub. By participating in this theme, teams are presented with the opportunity to create a sophisticated CPU architecture using Verilog HDL, unveiling the remarkable parallel processing capabilities offered by FPGAs.
+The core challenge of this theme lies in constructing the EcoMender Bot from scratch, utilizing an FPGA (Field Programmable Gate Array) as its powerhouse.
+Through the FPGAs adept control over sensors and actuators, the robot adeptly traverses the arena, perceives its environment, and picks up essential components
+from the resource depot. Wireless communication serves as the primary means for exchanging vital information with the central hub. By participating in this theme,
+teams are presented with the opportunity to create a sophisticated CPU architecture using Verilog HDL, unveiling the remarkable parallel processing capabilities
+offered by FPGAs.
 
 The team which builds the EcoMender Bot that best performs the task in accordance with the rules will be declared the WINNER. 🏆
